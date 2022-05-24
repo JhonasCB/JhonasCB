@@ -1,3 +1,11 @@
+- 👋 Olá, sou João Henrique, mas pode me chamar de John ou @JhonasCB.
+- 👀 Gosto de Programação, Big Data e Desenvolvimento Full Stack.
+- 🌱 Atualmente estou aprendendo Python, Power Bi e muito mais na Udemy e DIO.
+- 💞️ Pretendo atuar como Estagiário ou Trainee.
+- 📫 Como entrar em contato me envie um e-mail em: joaohmor69@gmail.com
+
+
+English version:
 - 👋 Hi, I’m João Henrique, but you can call me John or @JhonasCB.
 - 👀 I’m into Programming, Big Data and Full Stack Developing.
 - 🌱 I’m currently learning Python, Power Bi and more at Udemy and DIO.
